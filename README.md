@@ -27,7 +27,7 @@ The data used in this project comes from NOAA's publicly available hurricane rec
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/noaa-hurricane-analysis.git
+   git clone https://github.com/Aaryan-agr/noaa-hurricane-analysis.git
 2. Open the project in RStudio.
 3. Install dependencies if needed.
    ``` r
